@@ -1,6 +1,6 @@
 {
   "name": "Renan V R Santos",
-  "photo": "https://github.com/reenanrs1/Renan-Portfolio/blob/main/assets/img/minhafoto.jpeg",
+  "photo": "https://raw.githubusercontent.com/reenanrs1/Renan-Portfolio/main/assets/img/minhafoto.jpeg",
   "job": "Desenvolvedor Jr",
   "location": "Mogi Mirim - SP",
   "phone": "(19) 99785-1431",
@@ -9,11 +9,11 @@
     "hardSkills": [
       {
         "name": "CSS3",
-        "logo": "https://raw.githubusercontent.com/reenanrs1/Renan-Portfolio/blob/main/data/css.png"
+        "logo": "https://raw.githubusercontent.com/reenanrs1/Renan-Portfolio/main/data/css.png"
       },
       {
         "name": "JS",
-        "logo": "https://raw.githubusercontent.com/reenanrs1/Renan-Portfolio/blob/main/data/js.png"
+        "logo": "https://raw.githubusercontent.com/reenanrs1/Renan-Portfolio/main/data/js.png"
       },
       {
         "name": "HTML",
@@ -21,15 +21,15 @@
       },
       {
         "name": "Python",
-        "logo": "https://raw.githubusercontent.com/reenanrs1/Renan-Portfolio/blob/main/data/python.png"
+        "logo": "https://raw.githubusercontent.com/reenanrs1/Renan-Portfolio/main/data/python.png"
       },
       {
         "name": "MySql",
-        "logo": "https://raw.githubusercontent.com/reenanrs1/Renan-Portfolio/blob/main/data/mysql.png"
+        "logo": "https://raw.githubusercontent.com/reenanrs1/Renan-Portfolio/main/data/mysql.png"
       },
       {
         "name": "VSCode",
-        "logo": "https://raw.githubusercontent.com/reenanrs1/Renan-Portfolio/blob/main/data/vscode.png"
+        "logo": "https://raw.githubusercontent.com/reenanrs1/Renan-Portfolio/main/data/vscode.png"
       }
     ],
     "softSkills": [
