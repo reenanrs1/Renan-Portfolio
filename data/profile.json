@@ -9,27 +9,27 @@
     "hardSkills": [
       {
         "name": "CSS3",
-        "logo": "https://github.com/reenanrs1/JS-Aprendizado/blob/main/BootCamp_Ifood_Dio/Portifolio/data/css.png"
+        "logo": "https://github.com/reenanrs1/Renan-Portfolio/blob/main/data/css.png"
       },
       {
         "name": "JS",
-        "logo": "https://github.com/reenanrs1/JS-Aprendizado/blob/main/BootCamp_Ifood_Dio/Portifolio/data/js.png"
+        "logo": "https://github.com/reenanrs1/Renan-Portfolio/blob/main/data/js.png"
       },
       {
         "name": "HTML",
-        "logo": "https://github.com/reenanrs1/JS-Aprendizado/blob/main/BootCamp_Ifood_Dio/Portifolio/data/html.png"
+        "logo": "https://github.com/reenanrs1/Renan-Portfolio/blob/main/data/html.png"
       },
       {
         "name": "Python",
-        "logo": "https://github.com/reenanrs1/JS-Aprendizado/blob/main/BootCamp_Ifood_Dio/Portifolio/data/python.png"
+        "logo": "https://github.com/reenanrs1/Renan-Portfolio/blob/main/data/python.png"
       },
       {
         "name": "MySql",
-        "logo": "https://github.com/reenanrs1/JS-Aprendizado/blob/main/BootCamp_Ifood_Dio/Portifolio/data/mysql.png"
+        "logo": "https://github.com/reenanrs1/Renan-Portfolio/blob/main/data/mysql.png"
       },
       {
         "name": "VSCode",
-        "logo": "https://github.com/reenanrs1/JS-Aprendizado/blob/main/BootCamp_Ifood_Dio/Portifolio/data/vscode.png"
+        "logo": "https://github.com/reenanrs1/Renan-Portfolio/blob/main/data/vscode.png"
       }
     ],
     "softSkills": [
@@ -54,12 +54,8 @@
       "name": "Suporte Utilitários",
       "url": "https://suporteutilitarios.vercel.app",
       "github": false
-    },
-    {
-      "name": "Curso Dio",
-      "url": "https://suporteutilitarios.vercel.app",
-      "certificado": "COLOQUEAQUI"
     }
+
   ],
   "professionalExperience": [
     {
